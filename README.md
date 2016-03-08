@@ -13,7 +13,7 @@
 |[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  | @tonghuix/正在进行|
 |[6 useful LibreOffice extensions  ](https://opensource.com/business/15/12/6-useful-libreoffice-extensions) | LibreOffice即开源的Office办公套件。  |  |
 |[Top 5 open source community metrics to track](https://opensource.com/business/15/12/top-5-open-source-community-metrics-track) | 衡量开源社区的一些个指标。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／已完成 |
-|[5 great Raspberry Pi projects for the classroom](https://opensource.com/education/15/12/5-great-raspberry-pi-projects-classroom)  | 树莓派是一款开源的ARM主板（计算机），廉价、可hacker。  | |
+|[5 great Raspberry Pi projects for the classroom](https://opensource.com/education/15/12/5-great-raspberry-pi-projects-classroom)  | 树莓派是一款开源的ARM主板（计算机），廉价、可hacker。  | [@ezio](http://www.github.com/oska874)／正在进行|
 |[8 books to make you a more open leader](https://opensource.com/open-organization/15/12/8-books-make-you-better-leader) | 红帽的CEO去年6月出了一本书，开源渗透到其他领域的典型之作，其实还有8本书讲关于开放的领导力的。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／正在进行 |
 |[5 handy Drupal modules ](https://opensource.com/business/15/12/5-handy-drupal-modules) |  Drupal是一款Python实现的CMS系统，类似于Wordpress。  | 
 [@zky001](http://www.github.com/zky001)／正在进行|
